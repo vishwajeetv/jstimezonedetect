@@ -1,0 +1,20 @@
+{
+  "name": "js-timezone-detect",
+  "version": "0.0.0",
+  "authors": [
+    "Vishwajeet Vatharkar <vishwajeetvatharkar@gmail.com>"
+  ],
+  "main": "jstz-1.0.4.min.js",
+  "keywords": [
+    "timezone"
+  ],
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/pellepim/jstimezonedetect",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
