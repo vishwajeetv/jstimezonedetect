@@ -10,6 +10,7 @@
   ],
   "license": "MIT",
   "homepage": "https://bitbucket.org/pellepim/jstimezonedetect",
+  "_source": "git://github.com/vishwajeetv/jstimezonedetect.git",
   "ignore": [
     "**/.*",
     "node_modules",
